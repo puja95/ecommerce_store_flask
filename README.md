@@ -8,7 +8,7 @@ It will help in filtering of products based on above conditions.
 
 
 API details.
- /create_products : Creates products, generates product variant and category association.
+ /create_products : Creates products, generates product variant and category association. METHOD : POST
  
  Sample Request: 
 ```{
@@ -29,7 +29,7 @@ Response :
 }
 ```
 
-/get_products - Get product details according to product id.
+/get_products - Get product details according to product id. METHOD : POST
 
 Sample Request :
 
